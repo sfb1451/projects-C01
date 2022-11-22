@@ -1,0 +1,4 @@
+[submodule "AIDAqc"]
+	path = AIDAqc
+	url = git@github.com:aswendtlab/AIDAqc.git
+	datalad-url = git@github.com:aswendtlab/AIDAqc.git
