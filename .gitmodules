@@ -7,3 +7,7 @@
 	url = git@gin.g-node.org:/arefks/AIDAqc_test_data.git
 	datalad-id = f1a7ead6-a448-4c29-aad5-921e59db6aba
 	datalad-url = git@gin.g-node.org:/arefks/AIDAqc_test_data.git
+[submodule "2023_Stokowska_Periinfarct"]
+	path = 2023_Stokowska_Periinfarct
+	url = https://gin.g-node.org/Aswendt_Lab/2023_Stokowska_Periinfarct.git
+	datalad-url = https://gin.g-node.org/Aswendt_Lab/2023_Stokowska_Periinfarct.git
