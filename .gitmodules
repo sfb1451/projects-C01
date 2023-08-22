@@ -1,7 +1,3 @@
-[submodule "AIDAqc"]
-	path = AIDAqc
-	url = git@github.com:aswendtlab/AIDAqc.git
-	datalad-url = git@github.com:aswendtlab/AIDAqc.git
 [submodule "2023_Blaschke_Stroke_tDCS_rsfMRI"]
 	path = 2023_Blaschke_Stroke_tDCS_rsfMRI
 	url = git@gin.g-node.org:/stejobla/2023_Blaschke_Stroke_tDCS_rsfMRI.git
