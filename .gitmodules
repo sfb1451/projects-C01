@@ -17,3 +17,7 @@
 	path = AIDAqc
 	url = git@github.com:Aswendt-Lab/AIDAqc.git
 	datalad-url = git@github.com:Aswendt-Lab/AIDAqc.git
+[submodule "2023_Stokowska_Periinfarct"]
+	path = 2023_Stokowska_Periinfarct
+	url = git@gin.g-node.org:/Aswendt_Lab/2023_Stokowska_Periinfarct.git
+	datalad-url = git@gin.g-node.org:/Aswendt_Lab/2023_Stokowska_Periinfarct.git
