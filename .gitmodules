@@ -7,3 +7,8 @@
 	url = git@gin.g-node.org:/arefks/AIDAqc_test_data.git
 	datalad-id = f1a7ead6-a448-4c29-aad5-921e59db6aba
 	datalad-url = git@gin.g-node.org:/arefks/AIDAqc_test_data.git
+[submodule "2023_Blaschke_Stroke_tDCS_rsfMRI"]
+	path = 2023_Blaschke_Stroke_tDCS_rsfMRI
+	url = git@gin.g-node.org:/stejobla/2023_Blaschke_Stroke_tDCS_rsfMRI.git
+	datalad-id = 83b73949-b6c3-4b2b-81b2-cc3f7236a048
+	datalad-url = git@gin.g-node.org:/stejobla/2023_Blaschke_Stroke_tDCS_rsfMRI.git
