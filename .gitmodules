@@ -13,3 +13,7 @@
 	url = git@gin.g-node.org:/Aswendt_Lab/testdata_aidaqc.git
 	datalad-id = ff040a4c-d367-4759-bc77-93e01b5a447a
 	datalad-url = git@gin.g-node.org:/Aswendt_Lab/testdata_aidaqc.git
+[submodule "AIDAqc"]
+	path = AIDAqc
+	url = git@github.com:Aswendt-Lab/AIDAqc.git
+	datalad-url = git@github.com:Aswendt-Lab/AIDAqc.git
