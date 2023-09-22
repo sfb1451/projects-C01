@@ -2,14 +2,14 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: 'CRC C01'
+title: 'C01: Identification and selective stimulation of motor recovery-related functional networks after experimental stroke'
 message: 'Identification and selective stimulation of motor recovery-related functional networks after experimental stroke'
 type: dataset
 authors:
   - given-names: Markus
     family-names: Aswendt
     email: markus.aswendt@uk-koeln.de
-    affiliation: Group leader
+    affiliation: 'University of Cologne, Faculty of Medicine and University Hospital Cologne, Dept. of Neurology, Cologne, Germany'
     orcid: 'https://orcid.org/0000-0003-1423-0934'
   - given-names: Michael 
     family-names: Schroeter
@@ -29,6 +29,9 @@ authors:
     email: susan.vlachakis@uk-koeln.de
     affiliation: 'University of Cologne, Faculty of Medicine and University Hospital Cologne, Dept. of Neurology, Cologne, Germany'
     orcid: 'https://orcid.org/0000-0002-9429-2475'
+  - given-names: Helene
+    family-names: Walter
+    email: helene.walter@uk-koeln.de
   - given-names: Stefan
     family-names: Blaschke
     email: stefan.blaschke@uk-koeln.de
