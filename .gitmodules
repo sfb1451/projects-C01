@@ -22,3 +22,8 @@
 	path = 2023_Stokowska_Periinfarct
 	url = git@gin.g-node.org:/Aswendt_Lab/2023_Stokowska_Periinfarct.git
 	datalad-url = git@gin.g-node.org:/Aswendt_Lab/2023_Stokowska_Periinfarct.git
+[submodule "2023_Goetz_RecoveryGenes"]
+	path = 2023_Goetz_RecoveryGenes
+	url = https://gin.g-node.org/Aswendt_Lab/2023_Goetz_RecoveryGenes
+	datalad-id = 945795a4-f4d0-43dc-b51a-e73a79ae8d47
+	datalad-url = https://gin.g-node.org/Aswendt_Lab/2023_Goetz_RecoveryGenes
