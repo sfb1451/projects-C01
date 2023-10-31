@@ -8,11 +8,6 @@
 	url = git@gin.g-node.org:/Aswendt_Lab/2023_Kalantari_DataladExampleDataset.git
 	datalad-id = 8ef5a758-77f1-4ce3-b0ed-0507c9dd25b3
 	datalad-url = git@gin.g-node.org:/Aswendt_Lab/2023_Kalantari_DataladExampleDataset.git
-[submodule "testdata_aidaqc"]
-	path = testdata_aidaqc
-	url = git@gin.g-node.org:/Aswendt_Lab/testdata_aidaqc.git
-	datalad-id = ff040a4c-d367-4759-bc77-93e01b5a447a
-	datalad-url = git@gin.g-node.org:/Aswendt_Lab/testdata_aidaqc.git
 [submodule "2023_Stokowska_Periinfarct"]
 	path = 2023_Stokowska_Periinfarct
 	url = git@gin.g-node.org:/Aswendt_Lab/2023_Stokowska_Periinfarct.git
